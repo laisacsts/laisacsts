@@ -4,9 +4,6 @@
   <img width="150" height="150" alt="cartoon gif" src="https://github.com/laisacsts/images-gifs-others/blob/main/icons/icon.gif">
 </p>
 -->
-
-##
-##
 Esse perfil está em construção e vou documentar aqui coisas sobre meu aprendizado.
 
 __Algumas informações:__
