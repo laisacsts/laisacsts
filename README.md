@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oiii pessoa! 
 
-<!--
-**laisacsts/laisacsts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esse perfil está em construção e vou documentar aqui coisas sobre meu aprendizado.
+##
+Algumas informações:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📢 Pronomes: ela/dela
+- 💜 Atualmente estou estudando elixir
+- 🙂 Tenho interesse pela área de produto 
+- 💙 Mais pra frente quero estudar a linguagem go
+- ❤️‍🔥 Cursava letras e fazia pesquisa acadêmica (amo demais)
+##
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
