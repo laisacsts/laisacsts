@@ -30,8 +30,6 @@ A parte humana 👩🏿:
 </tr>
 </table>
 
-##
-##
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Computador iuriCode">
 
