@@ -9,10 +9,7 @@ A parte técnica 👩🏿‍💻:
 - Sou apaixonada por **tecnologias inclusivas** que influenciam e impactam positivamente a vida das pessoas, por isso estou construindo a minha jornada para me tornar uma pessoa desenvolvedora de software ✨
 
 - Tenho me dedicado a aprender **Elixir** 💜
-    - A sintaxe é bem amigável e tem sido uma boa experiência trabalhar com conceitos funcionais.
-
-- Sou uma **"lifelong learning"** 🤓
-    - Amo adquirir e transmitir conhecimento, estou sempre buscando coisas novas para aprender.
+    - A sintaxe é bem amigável e tem sido uma boa experiência trabalhar com conceitos funcionais.   
     
 - Se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
@@ -20,10 +17,10 @@ A parte técnica 👩🏿‍💻:
 </td>
 <td valign="top" width="50%">
 
-A parte humana 👩🏿:
+A parte não técnica 👩🏿:
 
 - Meus pronomes são ela/dela 🌈
-
+- Amo adquirir e transmitir conhecimento, estou sempre buscando coisas novas para aprender 🤓
 - Quando não estou codando ou estudando, eu gosto de:
   - Dançar 💃🏿
   - Assistir animes 📺
