@@ -1,4 +1,4 @@
-## Oi pessoa, aqui é a Lai 👋🏿
+## Oi pessoa, aqui é a Lai 👋🏿 
 
 <table>
 <tr>
@@ -8,8 +8,7 @@ A parte técnica 👩🏿‍💻:
 
 - Sou apaixonada por **tecnologias inclusivas** que influenciam e impactam positivamente a vida das pessoas, por isso estou construindo a minha jornada para me tornar uma pessoa desenvolvedora de software ✨
 
-- Tenho me dedicado a aprender **Elixir** 💜
-    - A sintaxe é bem amigável e tem sido uma boa experiência trabalhar com conceitos funcionais.   
+- Gosto de sintaxes amigavéis, **Ruby** ❤️ e **Elixir** 💜 são linguagens que me conquistam pela simplicidade, eficiência e comunidade.   
     
 - Se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
@@ -20,11 +19,11 @@ A parte técnica 👩🏿‍💻:
 A parte não técnica 👩🏿:
 
 - Meus pronomes são ela/dela 🌈
-- Amo adquirir e transmitir conhecimento, estou sempre buscando coisas novas para aprender 🤓
+- Amo adquirir e construir conhecimento 🤓
 - Quando não estou codando ou estudando, eu gosto de:
-  - Dançar 💃🏿
   - Assistir animes 📺
-  - Ler/escrever ficção e poesia 📚✍🏿
+  - Ler histórias diversas 📚
+  - Rolar o feed do twitter 📱
   - Ouvir Lo-fi e minhas músicas favoritas 🎧
   
 </td>
