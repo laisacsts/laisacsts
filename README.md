@@ -6,8 +6,6 @@
 
 A parte técnica 👩🏿‍💻:
 
-- Sou apaixonada por **tecnologias inclusivas** que influenciam e impactam positivamente a vida das pessoas, por isso estou construindo a minha jornada para me tornar uma pessoa desenvolvedora de software ✨
-
 - Gosto de sintaxes amigavéis, **Ruby** ❤️ e **Elixir** 💜 são linguagens que me conquistam pela simplicidade, eficiência e comunidade.   
     
 - Se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
