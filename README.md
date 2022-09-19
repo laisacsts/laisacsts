@@ -8,7 +8,7 @@
 
 - pronomes: ela/dela 🌈
 - atualmente tenho dedicado meu tempo de estudo para aprender **ruby** ❤️ 
-- outras linguagens que já tive algum contato: **elixir** || **javascript** || **java**
+- outras linguagens que já tive algum contato: **elixir** || **javascript** || **java** 😊
 - se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
 
 ___
