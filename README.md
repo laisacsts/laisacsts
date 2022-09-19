@@ -1,31 +1,17 @@
-## Oi pessoa, aqui é a Lai 👋🏿 
+ <p align="center">
+  <img src=https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif>
+</p>
 
-<table>
-<tr>
-<td valign="top" width="50%">
 
-A parte técnica 👩🏿‍💻:
+## Oi pessoa, aqui é a Lai 👋🏿
 
-- Gosto de sintaxes amigavéis, **Ruby** ❤️ e **Elixir** 💜 são linguagens que me conquistam pela simplicidade, eficiência e comunidade.   
-    
+
+- pronomes: ela/dela 🌈
+- atualmente tenho dedicado meu tempo de estudo para aprender **ruby** ❤️ 
+- outras linguagens que já tive algum contato: **elixir** || **javascript** || **java**
 - Se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-</td>
-<td valign="top" width="50%">
-
-A parte não técnica 👩🏿:
-
-- Meus pronomes são ela/dela 🌈
-- Amo adquirir e construir conhecimento 🤓
-- Quando não estou codando ou estudando, eu gosto de:
-  - Assistir animes 📺
-  - Ler histórias diversas 📚
-  - Rolar o feed do twitter 📱
-  - Ouvir Lo-fi e minhas músicas favoritas 🎧
+___
   
-</td>
-</tr>
-</table>
- 
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
