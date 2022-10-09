@@ -3,13 +3,17 @@
 </p>
 
 
-## Oi pessoa, aqui é a Lai 👋🏿
+## oi pessoa, aqui é a Lai 👋🏿
 
 
-- pronomes: ela/dela 🌈
-- atualmente tenho dedicado meu tempo de estudo para aprender **ruby** ❤️ 
-- outras linguagens que já tive algum contato: **elixir** || **javascript** || **java** 😊
-- se quiser falar comigo você pode me mandar uma mensagem no [Twitter](https://twitter.com/irielai) ou [LinkedIn](https://www.linkedin.com/in/laisacarmo/) 💌
+
+<img src="http://pa1.narvii.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" min-width="200px" max-width="200px" width="200px" align="right">
+
+🌈 pronomes: ela/dela 
+
+❤️ atualmente tenho dedicado meu tempo de estudo para aprender **ruby** 
+
+💌 se quiser falar comigo você pode mandar um email para laisacarmosts@gmail.com
 
 ___
   
