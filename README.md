@@ -7,7 +7,6 @@
 
 
 
-<img src="http://pa1.narvii.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" min-width="200px" max-width="200px" width="200px" align="right">
 
 🌈 pronomes: ela/dela 
 
