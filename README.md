@@ -1,18 +1,14 @@
  <p align="center">
-  <img src=https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif>
+  <img src=https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif>
 </p>
 
+## Oi pessoa, aqui é a Lai 👋🏿
 
-## oi pessoa, aqui é a Lai 👋🏿
+🌈 Meus pronomes: ela/dela 
 
+❤️ Sou uma pessoa desenvolvedora em construção de carreira e atualmente tenho dedicado meu tempo de estudo para aprender **ruby**.
 
-
-
-🌈 pronomes: ela/dela 
-
-❤️ atualmente tenho dedicado meu tempo de estudo para aprender **ruby** 
-
-💌 se quiser falar comigo você pode mandar um email para laisacarmosts@gmail.com
+💌 Se quiser falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
 
 ___
   
