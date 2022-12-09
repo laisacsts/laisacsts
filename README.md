@@ -6,9 +6,11 @@
 
 ___
 
-🌈 Meus pronomes: ela/dela 
+🌈 Pronomes: ela/dela 
 
-❤️ Sou uma pessoa desenvolvedora em construção de carreira e atualmente tenho dedicado meu tempo de estudo para aprender **ruby**.
+- Membro da [He4rt Developers](https://github.com/he4rt).
+- Sou uma pessoa desenvolvedora em construção de carreira.
+- Atualmente tenho dedicado meu tempo de estudo para aprender **ruby**.
 
 💌 Se quiser falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
 
