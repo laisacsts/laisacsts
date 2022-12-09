@@ -1,8 +1,10 @@
- <p align="center">
-  <img src=https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif>
+## Oi pessoa, aqui é a Lai 👋🏿
+
+<p align="center">
+  <img src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" min-width="200px" max-width="200px" width="200px" align="center">
 </p>
 
-## Oi pessoa, aqui é a Lai 👋🏿
+___
 
 🌈 Meus pronomes: ela/dela 
 
