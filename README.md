@@ -6,13 +6,18 @@
 
 ___
 
-🌈 Pronomes: ela/dela 
+🌻 ela/dela || 🌈 lgbtqia+
 
-- Membro da [He4rt Developers](https://github.com/he4rt).
-- Sou uma pessoa desenvolvedora em construção de carreira.
-- Atualmente tenho dedicado meu tempo de estudo para aprender **ruby**.
+📚 lifelong learner || 🥰 fã de inuyasha
 
-💌 Se quiser falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
+💜 membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842).
+
+👩🏾‍💻 pessoa desenvolvedora em construção de carreira.
+
+
+
+
+💌 Para falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
 
 ___
   
