@@ -17,7 +17,7 @@ ___
 
 
 
-💌 Para falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
+💌 para falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
 
 ___
   
