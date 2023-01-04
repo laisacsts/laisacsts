@@ -1,10 +1,10 @@
-## Oi pessoa, aqui é a Lai 👋🏿
 
 <p align="center">
-  <img src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" min-width="200px" max-width="200px" width="200px" align="center">
+  <img src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" min-width="200px" max-width="180px" width="180px" align="center">
 </p>
 
-___
+
+## oi pessoa, aqui é a Lai 👋🏿
 
 🌻 ela/dela || 🌈 lgbtqia+
 
@@ -14,10 +14,21 @@ ___
 
 👩🏾‍💻 pessoa desenvolvedora em construção de carreira.
 
+___
 
+## onde me encontrar 🕵🏾‍♀️
 
-
-💌 para falar comigo você pode mandar uma mensagem pelo [Twitter](https://twitter.com/irielai) ou [Linkedin](https://www.linkedin.com/in/laisacarmo/).
+<div>
+    <a target='_blank' href="https://twitter.com/irielai">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://dev.to/laisacsts">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+    <a target='_blank' href="https://linkedin.com/in/laisacsts">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
 ___
   
