@@ -1,20 +1,16 @@
 ## oi pessoa, aqui é a Lai 👋🏿
 
 <!--
-
+https://media.giphy.com/media/LfCZ95mmk0MFqx40t8/giphy.gif
 <p align="center">
   <img src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" min-width="200px" max-width="180px" width="180px" align="center">
 </p>
 
 -->
- 
-👩🏾‍💻 sou uma desenvolvedora em construção de carreira, 
-apaixonada por comunidades e tecnologias inclusivas que 
-influenciam e impactam positivamente a vida das pessoas. ♡
 
-___
+<img align="right" alt="GIF" src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" width="250" height="250" />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LfCZ95mmk0MFqx40t8/giphy.gif" width="300" height="300" />
+- 👩🏾‍💻 sou uma desenvolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas. ♡
 
 - 💜 membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842).
   
