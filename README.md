@@ -13,8 +13,10 @@ https://media.giphy.com/media/LfCZ95mmk0MFqx40t8/giphy.gif
 - 👩🏾‍💻 sou uma desenvolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas. ♡
 
 - 💜 membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842).
-  
-- 🕵🏾‍♀️ onde me encontrar: 
+
+---
+
+### onde me encontrar 🕵🏾‍♀️
 <div>
     <a target='_blank' href="https://twitter.com/irielai">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
