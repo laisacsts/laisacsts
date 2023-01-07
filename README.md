@@ -1,18 +1,22 @@
+## oi pessoa, aqui é a Lai 👋🏿
 
 <p align="center">
   <img src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" min-width="200px" max-width="180px" width="180px" align="center">
 </p>
 
+👩🏾‍💻 
 
-## oi pessoa, aqui é a Lai 👋🏿
+```ruby
+def about_me
 
-🌻 ela/dela || 🌈 lgbtqia+
+puts "pessoa desenvolvedora em construção de carreira, 
+apaixonada por comunidades e tecnologias inclusivas que 
+influenciam e impactam positivamente a vida das pessoas. ♡"
 
-📚 lifelong learner || 🥰 fã de inuyasha
+end
+```
 
 💜 membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842).
-
-👩🏾‍💻 pessoa desenvolvedora em construção de carreira.
 
 ___
 
