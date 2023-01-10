@@ -16,7 +16,6 @@ https://media.giphy.com/media/LfCZ95mmk0MFqx40t8/giphy.gif
 
 ---
 
-### onde me encontrar 🕵🏾‍♀️
 <div>
     <a target='_blank' href="https://twitter.com/irielai">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
