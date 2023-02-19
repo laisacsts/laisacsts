@@ -17,8 +17,6 @@
     </a>
 </div>
 
----
-
 <h3 align="center"> ✨ sobre mim ✨ </h3>
 
 <div>
