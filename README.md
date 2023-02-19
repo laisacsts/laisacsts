@@ -1,4 +1,7 @@
 
+<div align="center">
+<img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI0M2FjZjdjZjQ4Y2E1MzllOWFmODQzZTQ1Yzk4NjFkYWU4NjJhMSZjdD1z/HYGqS3Z57hpydHZAVa/giphy.gif" width="150" height="150" />
+</div>
 
 <h1 align="center"> oi pessoa, aqui é a Lai 👋🏿 </h1>
 
@@ -14,25 +17,23 @@
     </a>
 </div>
 
-### sobre mim ✨
-
-<img align="right" alt="GIF" src="https://media.tenor.com/mbzXk-ZLcZUAAAAi/hi-couple.gif" width="150" height="150" />
-
-- 👩🏾‍💻 sou uma desenvolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas. ♡
-
-- 💜 membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842).
-
 ---
 
-
-
-### linguagens e ferramentas ⚒️
+<h3 align="center"> ✨ sobre mim ✨ </h3>
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" />                                                                                                                    
+    <table>
+<tr>
+<td valign="top" width="40%">
+
+- sou uma desenvolvedora em construção de carreira, apaixonada por **comunidades e tecnologias inclusivas** que influenciam e impactam positivamente a vida das pessoas 👩🏾‍💻
+
+- atualmente tenho dedicado meu tempo de estudo para aprender ***ruby***, ***git*** e um pouco de ***linux*** 📚
+
+- membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842) 💜
+
+</tr>
+</table>
 </div>
 
 <br />
