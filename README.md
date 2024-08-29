@@ -16,13 +16,13 @@
     </a>
 </div>
 
-
+<br />
 <div>
     <table>
 <tr>
 <td valign="top" width="40%">
 
-- estudante de ciência da computação e densevolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas👩🏾‍💻
+👩🏾‍💻 estudante de ciência da computação e densevolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas.
 
 </tr>
 </table>
@@ -32,5 +32,5 @@
 <br />
 
 <div align="center">
-🥰 <b><i> what we do is more important than what we say or what we say we believe - bell hooks 🥰
+🥰 <b><i> what we do is more important than what we say or what we say we believe - bell hooks</i> 🥰
 </div>
