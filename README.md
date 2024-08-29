@@ -22,7 +22,7 @@
 <tr>
 <td valign="top" width="40%">
 
-👩🏾‍💻 estudante de ciência da computação e densevolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas.
+👩🏾‍💻 estudante de ciência da computação e desenvolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas.
 
 </tr>
 </table>
