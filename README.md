@@ -16,7 +16,6 @@
     </a>
 </div>
 
-<h3 align="center"> ✨ sobre mim ✨ </h3>
 
 <div>
     <table>
@@ -33,5 +32,5 @@
 <br />
 
 <div align="center">
-🥰 <b><i>eu adoro me conectar com pessoas diferentes, então se você quiser dizer "oi!", ficarei feliz em te conhecer!
+🥰 <b><i> what we do is more important than what we say or what we say we believe - bell hooks 🥰
 </div>
