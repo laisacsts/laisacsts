@@ -3,7 +3,6 @@
 <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDI0M2FjZjdjZjQ4Y2E1MzllOWFmODQzZTQ1Yzk4NjFkYWU4NjJhMSZjdD1z/HYGqS3Z57hpydHZAVa/giphy.gif" width="150" height="150" />
 </div>
 
-<h1 align="center"> oi pessoa, aqui é a Lai 👋🏿 </h1>
 
 <div align="center">
     <a target='_blank' href="https://twitter.com/irielai">
@@ -24,11 +23,7 @@
 <tr>
 <td valign="top" width="40%">
 
-- sou uma desenvolvedora em construção de carreira, apaixonada por **comunidades e tecnologias inclusivas** que influenciam e impactam positivamente a vida das pessoas 👩🏾‍💻
-
-- atualmente tenho dedicado meu tempo de estudo para aprender ***ruby***, ***git*** e um pouco de ***linux*** 📚
-
-- membro da [He4rt](https://github.com/he4rt) e comitê [He4rtDelas](https://twitter.com/He4rtDevs/status/1577314455247011842) 💜
+- estudante de ciência da computação e densevolvedora em construção de carreira, apaixonada por comunidades e tecnologias inclusivas que influenciam e impactam positivamente a vida das pessoas👩🏾‍💻
 
 </tr>
 </table>
